@@ -1,22 +1,22 @@
 # PDF Viewer Web Project
 
-Created by **Daniya Meraj**, student at **MVJ College of Engineering**.  
-This project is a simple and organized HTML-based PDF viewer that allows users to open different PDF files using clickable buttons.
+Created by **Daniya Meraj**, student at **New Horizon College of Engineering (NHCE)**.  
+This project is a clean and simple HTML-based PDF viewer that lets users open multiple PDF files using clickable buttons.
 
 ## Features
-- Clean and user-friendly interface  
+- User-friendly interface  
 - Buttons to load different PDFs  
-- Embedded PDF viewer on the same page  
-- Easy to modify and expand
+- Embedded PDF viewer  
+- Easy to edit and expand
 
 ## How It Works
-All PDFs are stored in the project folder.  
-When a button is clicked, the selected PDF loads inside the embedded viewer.
+All PDFs are stored inside the project folder.  
+Clicking a button loads the selected PDF directly in the viewer panel.
 
 ## Purpose
-This project was built to practice basic web development skills such as HTML structure, embedding files, and creating a functional mini-website for academic notes or documents.
+Built as part of academic learning to practice HTML and create a small functional document-viewing platform.
 
 ## Future Enhancements
-- Adding CSS styling  
-- Adding icons and improved layout  
-- Making it responsive for mobile screens
+- Add more styling with CSS  
+- Add icons and improved layout  
+- Make it responsive for mobile
